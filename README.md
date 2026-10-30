@@ -1,38 +1,23 @@
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
+**Languages**
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js" height="30"/>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+**Backend & Databases**
 
-### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,mysql" height="30"/>
 
-### 🔧 Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Web Technologies**
 
-### 📚 Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/OOP-Object--Oriented_Programming-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-Database_Management-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-Operating_Systems-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_APIs-Backend_Development-02569B?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css" height="30"/>
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="30"/>
+
+**Core Concepts**
+
+`OOP` · `DSA` · `DBMS` · `Operating Systems` · `REST APIs`
 
