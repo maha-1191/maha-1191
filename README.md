@@ -55,11 +55,11 @@ Computer Science and Engineering graduate specializing in AI & Data Science, wit
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maha-1191&show_icons=true&hide_border=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maha-1191&layout=compact&hide_border=true&theme=default" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=maha-1191&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maha-1191&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages" />
 </p>
 
----
+
 
 ## Connect With Me
 
