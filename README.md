@@ -1,82 +1,87 @@
-# Hi, I'm Bachu Maha Lakshmi 👋
+# Hi there! 👋
 
-### Java Developer | Backend Development | Spring Boot
-
-Computer Science and Engineering graduate specializing in AI & Data Science, with a strong foundation in Java, Object-Oriented Programming, and Database Management Systems. Interested in building reliable backend applications and solving real-world problems through software development.
-
-- 🎓 B.Tech in CSE (AI & Data Science) — 2026
-- 💻 Primary Focus: Java Backend Development
-- 🌱 Currently strengthening my skills in Java, Spring Boot, JDBC, and MySQL.
-- 📍 India
-
----
-
-## Technical Skills
-
-**Programming Languages**
-
-`Java` `SQL` `Python` `JavaScript`
-
-**Backend Development**
-
-`Spring Boot` `Spring MVC` `REST APIs` `JDBC`
-
-**ORM & Persistence**
-
-`Hibernate` `Spring Data JPA`
-
-**Databases**
-
-`MySQL` `Microsoft SQL Server`
-
-**Core Java & Computer Science**
-
-`OOP` `Collections Framework` `Exception Handling` `Multithreading` `DSA` `DBMS`
-
-**Web Technologies**
-
-`HTML5` `CSS3`
-
-**Developer Tools**
-
-`Git` `GitHub` `Maven` `Visual Studio Code`
-
----
-
-## Currently Working On
-
-- Strengthening Core Java and problem-solving skills.
-- Building backend applications using Spring Boot and MySQL.
-- Developing practical software projects.
-- Practicing Data Structures and Algorithms using Java.
-
----
-
-## GitHub Statistics
+<h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=maha-1191&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub Statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maha-1191&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages" />
+  I'm <b>Bachu Maha Lakshmi</b>, a Computer Science and Engineering graduate specializing in Artificial Intelligence and Data Science.
+  <br><br>
+  I have a strong foundation in <b>Java, Object-Oriented Programming, SQL, and Backend Development</b>.
+  <br>
+  I'm interested in building reliable backend applications and solving real-world problems through software development.
 </p>
 
-
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://github.com/maha-1191">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maha-lakshmi-yadav-b-23415b336">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mahabml111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_Developer-Backend_Development-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-9.23%2F10-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graduation-2026-blue?style=for-the-badge" />
 </p>
 
 ---
 
+<h2 align="center">🎯 Currently Working On</h2>
+
 <p align="center">
-  <i>Always learning. Always building. Always improving.</i>
+  Strengthening Core Java and problem-solving skills.
+  <br>
+  Building backend applications using Spring Boot and MySQL.
+  <br>
+  Practicing Data Structures and Algorithms using Java.
+  <br>
+  Improving software development and database skills.
 </p>
+
+---
+
+<h2 align="center">🛠️ Tools & Technologies</h2>
+
+<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3 align="center">Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" />
+</p>
+
+<h3 align="center">ORM & Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<h3 align="center">Web Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+<h3 align="center">Developer Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
+</p>
+
+---
+
+<h2 align="center">🧠 Core Concepts</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-OOP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-DSA-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database_Management
