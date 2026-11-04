@@ -1,8 +1,10 @@
-<!-- ================= HEADER ================= -->
+ <!-- ================= HEADER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:2563eb&height=180&section=header&text=Bachu%20Maha%20Lakshmi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Development&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
+
+<!-- ================= INTRODUCTION ================= -->
 
 <h2 align="center">👩‍💻 Who Am I?</h2>
 
@@ -22,6 +24,8 @@
 
 ---
 
+<!-- ================= CURRENT FOCUS ================= -->
+
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
@@ -36,50 +40,28 @@
 
 ---
 
-<h2 align="center">🛠️ Tools of Trade</h2>
+<!-- ================= LANGUAGES AND TOOLS ================= -->
 
-<h3 align="center">Programming Languages</h3>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,spring,maven,mysql,html,css,git,github,vscode&theme=dark&perline=6" />
 </p>
 
-<h3 align="center">Backend & Frameworks</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
-  <br><br>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge" />
-</p>
-
-<h3 align="center">ORM & Databases</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <br><br>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<h3 align="center">Web Technologies</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
-<h3 align="center">Developer Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
 ---
+
+<!-- ================= CORE CONCEPTS ================= -->
 
 <h2 align="center">🧠 Core Concepts</h2>
 
@@ -93,6 +75,8 @@
 </p>
 
 ---
+
+<!-- ================= EDUCATION ================= -->
 
 <h2 align="center">🎓 Education</h2>
 
@@ -110,29 +94,77 @@
 
 ---
 
-<h2 align="center">🏆 Certifications & Achievements</h2>
+<!-- ================= RESEARCH PUBLICATION ================= -->
+
+<h2 align="center">📚 Research Publication</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20Full%20Stack%20Developer-Intern%20Certify-2563eb?style=flat-square" />
-  <br><br>
-  <img src="https://img.shields.io/badge/NPTEL-The%20Joy%20of%20Computing%20Using%20Python-orange?style=flat-square" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Academic%20Achievement-Second%20Year%20CGPA%209.45-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Springer-Published%20Research-0077B5?style=for-the-badge&logo=springer&logoColor=white" />
 </p>
 
----
-
-<h2 align="center">📂 Explore My Work</h2>
+<h3 align="center">
+  An Advanced Hybrid Deep Learning Framework for Ad Clicks Fraud Detection in Digital Advertising Ecosystems
+</h3>
 
 <p align="center">
-  Check out my repositories to explore my projects, coding practice, and development journey.
-  <br><br>
-  <a href="https://github.com/maha-1191?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+  <b>Author:</b> B. Maha Lakshmi (Third Author)
+  <br>
+  <b>Conference:</b> ICIDA 2025
+  <br>
+  <b>Book:</b> Innovations in Data Analytics
+  <br>
+  <b>Series:</b> Lecture Notes in Networks and Systems, Volume 2099
+  <br>
+  <b>Publisher:</b> Springer, Cham
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.1007/978-3-032-33698-9_36">
+    <img src="https://img.shields.io/badge/READ%20PUBLISHED%20PAPER-Springer-0077B5?style=for-the-badge&logo=springer&logoColor=white" />
   </a>
 </p>
 
 ---
+
+<!-- ================= CERTIFICATIONS AND ACHIEVEMENTS ================= -->
+
+<h2 align="center">🏆 Certifications & Achievements</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Academic%20Recognition-Department%20Topper-FFD700?style=for-the-badge&logo=academia&logoColor=black" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Overall%20CGPA-9.23%2F10-16a34a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Second%20Year%20CGPA-9.45-success?style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Java%20Full%20Stack%20Developer-Intern%20Certify-2563eb?style=flat-square" />
+  <br><br>
+  <img src="https://img.shields.io/badge/NPTEL-The%20Joy%20of%20Computing%20Using%20Python-orange?style=flat-square" />
+</p>
+
+---
+
+<!-- ================= GITHUB STATISTICS ================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maha-1191&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maha-1191&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION STREAK ================= -->
+
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maha-1191&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -150,11 +182,15 @@
 
 ---
 
+<!-- ================= PHILOSOPHY ================= -->
+
 <h2 align="center">✨ My Philosophy</h2>
 
 <p align="center">
   <i>"Learn continuously. Build consistently. Improve every day."</i>
 </p>
+
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:172554,100:0f172a&height=100&section=footer" width="100%" />
