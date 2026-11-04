@@ -148,8 +148,16 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maha-1191&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maha-1191&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=maha-1191&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=maha-1191&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
@@ -159,7 +167,10 @@
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maha-1191&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=maha-1191&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
